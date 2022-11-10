@@ -1,1 +1,1 @@
-module github.com/rebirthlee/structs
+module github.com/2rebi/structs
